@@ -154,14 +154,20 @@ If you use or reference AEC-64, please cite:
 }
 ```
 
----
+## Cite This Work
 
-## Acknowledgements
+If you use or reference AEC-64, please cite:
 
-The spiral constant `a = 6/π²` used implicitly in the author's broader
-research programme is the reciprocal of the Basel sum
-∑ 1/n² = π²/6 (Euler, 1734) — a reminder that elegant mathematics
-appears in unexpected places.
+```bibtex
+@misc{balban2026aec64,
+  author    = {Balban, Dogan},
+  title     = {{AEC-64}: A Self-Describing 64-Bit Binary Format
+               for Atomic Electron Configurations},
+  year      = {2026},
+  note      = {Independent research preprint},
+  url       = {https://github.com/Dogan1908/AEC-64}
+}
+```
 
 ---
 
